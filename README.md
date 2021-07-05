@@ -28,3 +28,23 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+                   _ooOoo_
+                  o8888888o
+                  88" . "88
+                  (| -_- |)
+                  O\  =  /O
+               ____/'---'\____
+             .'  \\|     |//  '.
+            /  \\|||  :  |||//  \
+           /  _||||| -:- |||||-  \
+           |   | \\\  -  /// |   |
+           | \_|  ''\---/''  |   |
+           \  .-\__  '-'  ___/-. /
+         ___'. .'  /--.--\  '. .' ___
+      ."" '<  '.___\_<|>_/___.'  >' "".
+     | | :  '- \'.;'\ _ /';.'/ -'  : | |
+     \  \ '-.   \_ __\ /__ _/   .-' /  /
+     ===================================
+            佛祖保佑       永无BUG
